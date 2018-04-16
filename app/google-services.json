@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798397671853",
+    "firebase_url": "https://around-the-world-ab95e.firebaseio.com",
+    "project_id": "around-the-world-ab95e",
+    "storage_bucket": "around-the-world-ab95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798397671853:android:cbe7d6fd77a957f9",
+        "android_client_info": {
+          "package_name": "com.ask.atw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798397671853-2iqk8gi3dnfn8ri4rpqnfm7v0485g0ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ask.atw",
+            "certificate_hash": "4170bff26dc1c3b530c0c9b86d35d02d62cc2aeb"
+          }
+        },
+        {
+          "client_id": "798397671853-ir1r0f5fivv1nnrjq91seb1592plvj0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnShkgBoLCgCXBIKcunq1TGspi1zuF9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798397671853-ir1r0f5fivv1nnrjq91seb1592plvj0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

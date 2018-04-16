@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ask.atw.Activities.AboutActivity"
+    android:background="@drawable/accountsetupbg">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/alamark"
+                android:textSize="44sp"
+                android:textColor="@color/white"
+                android:text="About Us"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:fontFamily="@font/affection"
+                android:layout_margin="10dp"
+                android:textSize="20sp"
+                android:text="'Travelling - It leaves you speechless, then turns you into a storyteller.' A.T.W (Around The World) is an effort to turn journeys into beautiful memories. The confusion in deciding which place to visit would be ending now as the app would provide the journey experiences shared by people all over the world about all the places to visit. ASTech brings to you this smart app to keep track of all the places you should visit. If you feel like keeping your journey experience as memories or want to share it with everyone A.T.W is there to provide the service.
+
+Developers (ASTech) :- Ayush, Suraj"
+                android:layout_gravity="center"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:layout_margin="10dp"
+                    android:fontFamily="@font/advent_regular"
+                    android:id="@+id/privacybut"
+                    android:text="Privacy Policy"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:layout_margin="10dp"
+                    android:textSize="20dp"
+                    android:fontFamily="@font/advent_regular"
+                    android:id="@+id/liscencebut"
+                    android:text="Open Source Licenses"/>
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Build: 1 . 0"
+                android:textColor="@color/white"
+                android:fontFamily="@font/advent_regular"
+                android:textSize="20dp"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

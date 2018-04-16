@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">798397671853-ir1r0f5fivv1nnrjq91seb1592plvj0g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://around-the-world-ab95e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">798397671853</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnnShkgBoLCgCXBIKcunq1TGspi1zuF9E</string>
+    <string name="google_app_id" translatable="false">1:798397671853:android:cbe7d6fd77a957f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnnShkgBoLCgCXBIKcunq1TGspi1zuF9E</string>
+    <string name="google_storage_bucket" translatable="false">around-the-world-ab95e.appspot.com</string>
+    <string name="project_id" translatable="false">around-the-world-ab95e</string>
+</resources>

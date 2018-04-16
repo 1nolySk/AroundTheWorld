@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#010530</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#95979b</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="orange">#ff7700</color>
+    <color name="black">#000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <!--Added-->
+    <color name="post_back">#dbdee0</color>
+    <color name="post_desc_text">#5b5b5b</color>
+</resources>
